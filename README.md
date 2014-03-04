@@ -1,6 +1,6 @@
 KillWinKey
 ==========
-> Lightweight, Green and Fast.
+###*Lightweight, Green and Fast.*
 
 ##Overview
 
