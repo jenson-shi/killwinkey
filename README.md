@@ -2,15 +2,11 @@ KillWinKey
 ==========
 > Lightweight, Green and Fast.
 
-- - -
-
 ##Overview
 
 This is a simple way to disable your win key. 
 
 [Visit page](http://shixf.com/killwinkey/)
-
-- - -
 
 ##Download
 
