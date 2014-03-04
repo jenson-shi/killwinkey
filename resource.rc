@@ -1,0 +1,16 @@
+
+#include "resource.h"
+
+
+IDI_ICON1 ICON "icon1.ico"
+
+
+IDR_MENU1 MENU 
+BEGIN
+    POPUP "Menu"
+    BEGIN
+        MENUITEM "About", ID_MENU_ABOUT
+        MENUITEM "Exit", ID_MENU_EXIT
+    END
+END
+
