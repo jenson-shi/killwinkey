@@ -10,8 +10,4 @@ This is a simple way to disable your win key.
 
 ##Download
 
-[Download 1](https://db.tt/D30EN5rT)
-
-[Download 2](http://pan.baidu.com/s/1qW6lIos)
-
-
+[Download](https://github.com/jenson-sze/killwinkey/releases/download/v1.0/KillWinKey.zip)
